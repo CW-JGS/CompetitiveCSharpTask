@@ -1,0 +1,15 @@
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\evilAssGridProblem\bin\Debug\net6.0\evilAssGridProblem.exe
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\evilAssGridProblem\bin\Debug\net6.0\evilAssGridProblem.deps.json
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\evilAssGridProblem\bin\Debug\net6.0\evilAssGridProblem.runtimeconfig.json
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\evilAssGridProblem\bin\Debug\net6.0\evilAssGridProblem.dll
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\evilAssGridProblem\bin\Debug\net6.0\evilAssGridProblem.pdb
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\evilAssGridProblem\obj\Debug\net6.0\evilAssGridProblem.csproj.AssemblyReference.cache
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\evilAssGridProblem\obj\Debug\net6.0\evilAssGridProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\evilAssGridProblem\obj\Debug\net6.0\evilAssGridProblem.AssemblyInfoInputs.cache
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\evilAssGridProblem\obj\Debug\net6.0\evilAssGridProblem.AssemblyInfo.cs
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\evilAssGridProblem\obj\Debug\net6.0\evilAssGridProblem.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\evilAssGridProblem\obj\Debug\net6.0\evilAssGridProblem.dll
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\evilAssGridProblem\obj\Debug\net6.0\refint\evilAssGridProblem.dll
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\evilAssGridProblem\obj\Debug\net6.0\evilAssGridProblem.pdb
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\evilAssGridProblem\obj\Debug\net6.0\evilAssGridProblem.genruntimeconfig.cache
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\evilAssGridProblem\obj\Debug\net6.0\ref\evilAssGridProblem.dll

@@ -1,0 +1,15 @@
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\compProgramming\obj\Debug\net6.0\compProgramming.csproj.AssemblyReference.cache
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\compProgramming\obj\Debug\net6.0\compProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\compProgramming\obj\Debug\net6.0\compProgramming.AssemblyInfoInputs.cache
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\compProgramming\obj\Debug\net6.0\compProgramming.AssemblyInfo.cs
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\compProgramming\obj\Debug\net6.0\compProgramming.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\compProgramming\bin\Debug\net6.0\compProgramming.exe
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\compProgramming\bin\Debug\net6.0\compProgramming.deps.json
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\compProgramming\bin\Debug\net6.0\compProgramming.runtimeconfig.json
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\compProgramming\bin\Debug\net6.0\compProgramming.dll
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\compProgramming\bin\Debug\net6.0\compProgramming.pdb
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\compProgramming\obj\Debug\net6.0\compProgramming.dll
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\compProgramming\obj\Debug\net6.0\refint\compProgramming.dll
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\compProgramming\obj\Debug\net6.0\compProgramming.pdb
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\compProgramming\obj\Debug\net6.0\compProgramming.genruntimeconfig.cache
+C:\Users\jacks\Desktop\projects\Swinburne\compProgramming\CompetitiveCSharpTask\compProgramming\obj\Debug\net6.0\ref\compProgramming.dll
